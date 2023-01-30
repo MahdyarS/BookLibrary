@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\assassins\desktop\booklibrary\main.cpp
+	<iostream>
+
+1675037308 source:c:\users\assassins\desktop\booklibrary\src\book.cpp
+	"book.h"
+
+1675037308 c:\users\assassins\desktop\booklibrary\include\book.h
+
+1675039389 source:c:\users\assassins\desktop\booklibrary\src\date.cpp
+	<iostream>
+	<string>
+	"date.h"
+
+1675039971 c:\users\assassins\desktop\booklibrary\include\date.h
+	<iostream>
+	<vector>
+
+1675037322 source:c:\users\assassins\desktop\booklibrary\src\memory.cpp
+	"memory.h"
+
+1675037322 c:\users\assassins\desktop\booklibrary\include\memory.h
+
+1675039389 source:c:\users\assassins\desktop\booklibrary\src\response.cpp
+	"response.h"
+
+1675039084 c:\users\assassins\desktop\booklibrary\include\response.h
+	<iostream>
+
+1675039389 source:c:\users\assassins\desktop\booklibrary\src\short_response.cpp
+	"short_response.h"
+
+1675039389 c:\users\assassins\desktop\booklibrary\include\short_response.h
+	<iostream>
+
+1675037215 source:c:\users\assassins\desktop\booklibrary\src\user.cpp
+	"user.h"
+
+1675037736 c:\users\assassins\desktop\booklibrary\include\user.h
+	<iostream>
+
+1675037840 source:c:\users\assassins\desktop\booklibrary\src\reservation_log.cpp
+	"reservation_log.h"
+
+1675039389 c:\users\assassins\desktop\booklibrary\include\reservation_log.h
+	<iostream>
+	<vector>
+	"response.h"
+	"short_response.h"
+	"date.h"
+
